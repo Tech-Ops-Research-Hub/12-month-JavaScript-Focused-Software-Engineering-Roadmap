@@ -421,12 +421,4 @@ Features:
 * sum totals
 * display categories
 
-This project ensures:
-
-* fundamentals
-* input processing
-* problem breakdown
-* modular code
-* Git version control
-
 ---
